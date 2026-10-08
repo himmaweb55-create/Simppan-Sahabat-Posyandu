@@ -1,0 +1,6 @@
+{
+  "name": "SIMPPAN & SAHABAT POSYANDU - Puskesmas Kepanjen",
+  "description": "Ekosistem Digital Promosi Kesehatan Puskesmas Kepanjen dan Gateway Pelayanan Posyandu Kecamatan Kepanjen",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
